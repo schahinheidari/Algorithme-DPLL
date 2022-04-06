@@ -1,5 +1,7 @@
 # Algorithme-DPLL
 
+<h2>&nbsp; description du projet</h2>
+
 un programme dans le langage de **C** si un ensemble de clauses est satisfaisable ou non à l’aide de l’algorithme dpll.
 Les clauses seront codées dans un fichier texte contenant une ligne par clause. Pour faciliter la lecture des données, la première ligne du fichier
 contiendra 2 entiers, le premier désignera le nombre de variables, le second le nombre de clauses. Chaque clause sera codée par une séquence d’entiers
