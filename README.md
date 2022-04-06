@@ -2,6 +2,7 @@
 
 
 <h1>What is DPLL?</h1>
+
 The **Davis-Putnam-Logemann-Loveland** algorithm is an algorithm for deciding the satisfiablility of propositional logic formulae. Although the SAT problem is NP-complete, it is stxill remarkably amenable to automation, and modern high-performance SAT-solvers are regularly used in software verification, constraint solving and optimization.
 
 <h2>&nbsp; description du projet</h2>
