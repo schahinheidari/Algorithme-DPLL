@@ -81,5 +81,4 @@ result could be:
   3.some formula containing only unassigned variables
 in the first two cases, the formula has a value that does not depend on the unassigned variables
 
-[embed]http://homepage.divms.uiowa.edu/~ajreynol/pres-vtsa2017-part1.pdf[/embed]
-
+http://homepage.divms.uiowa.edu/~ajreynol/pres-vtsa2017-part1.pdf
